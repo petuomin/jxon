@@ -24,9 +24,6 @@
     "type": "git",
     "url": "git://github.com/tyrasd/jxon.git"
   },
-  "browser": {
-    "xmldom": false
-  },
   "license": "GPL v3",
   "dependencies": {
     "xmldom": "~0.1.17"
